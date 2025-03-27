@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Tree, outdoor enthusiast and devops/sre/infra tinkerer 🌲🌊🏔️🌄🤖
+I'm Tree, outdoor enthusiast, foodie and devops/sre/infra tinkerer 🌲🌊🏔️🌄🤖
 
 <!--
 tutorital for creating stats card: https://github.com/anuraghazra/github-readme-stats
