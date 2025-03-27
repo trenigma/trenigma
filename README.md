@@ -3,6 +3,8 @@
 I'm Tree, outdoor enthusiast and devops/sre/infra tinkerer 🌲🌊🏔️🌄🤖
 
 <!--
+tutorital for creating stats card: https://github.com/anuraghazra/github-readme-stats
+
 <h1 align="center">
 
 ![trenigma's github stats](https://github-readme-stats.vercel.app/api?username=trenigma&show_icons=true)
