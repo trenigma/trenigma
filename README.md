@@ -1,9 +1,13 @@
 ## Hi there 👋
+
+<!--
 <h1 align="center">
 
 ![trenigma's github stats](https://github-readme-stats.vercel.app/api?username=trenigma&show_icons=true)
 
 </h1>
+-->
+
 
 <!--
 **jesseduffield/jesseduffield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
