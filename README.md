@@ -8,7 +8,7 @@ tutorital for creating stats card: https://github.com/anuraghazra/github-readme-
 
 <h1 align="center">
 
-![trenigma's github stats](https://github-readme-stats.vercel.app/api?username=trenigma&show_icons=true&theme=synthwave)
+![trenigma's github stats](https://github-readme-stats.vercel.app/api?username=trenigma&show_icons=true&theme=tokyonight)
 
 </h1>
 
