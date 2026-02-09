@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Tree, outdoor enthusiast, foodie and devops/sre/infra tinkerer 🌲🌊🏔️🌄🤖. Check out my portfolio projects at [TreehousePNW](https://github.com/treehousepnw/)
+I'm Tree, devops/sre/infra tinkerer, outdoor enthusiast, and foodie 🌲🌊🏔️🌄🤖. Check out my portfolio projects at [TreehousePNW](https://github.com/treehousepnw/)
 
 <!--
 tutorital for creating stats card: https://github.com/anuraghazra/github-readme-stats
